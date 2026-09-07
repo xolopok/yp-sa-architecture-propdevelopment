@@ -32,3 +32,6 @@ target/
 
 # Task artifacts
 task-*
+
+# Task 4 generated user certificates and keys
+Task4/certs/
